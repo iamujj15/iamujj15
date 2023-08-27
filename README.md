@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <ul>
   <li>🔭 Web Developer</li>
   <li>👨‍💻 Competitive Programmer</li>
-  <li>🌱 All of my public projects are available at <a href="https://github.com/iamujj15?tab=repositories" target="_blank">https://github.com/iamujj15</a></li>
+  <li>🌱 I'm currently learning NodeJS/ExpressJS, ReactJS, MongoDB</li>
+  <li>⚡ All of my public projects are available at <a href="https://github.com/iamujj15?tab=repositories" target="_blank">https://github.com/iamujj15</a></li>
 </ul>
 
 <!-- ############################################################################################################### Stats ############################################################################################################### -->
