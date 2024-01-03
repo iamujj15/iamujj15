@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- ############################################################################################################### Stats ############################################################################################################### -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamujj15&layout=compact&hide=php,c,html,roff,ejs&langs_count=10" alt="iamujj15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamujj15&layout=compact&hide=c,html,roff,ejs&langs_count=10" alt="iamujj15" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamujj15&show_icons=true" alt="iamujj15" />
