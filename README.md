@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamujj15" alt="iamujj15" /> </p>
 <ul>
-  <li>🔭 Web Developer</li>
+  <li>🔭 Software Engineer</li>
   <li>👨‍💻 Competitive Programmer</li>
   <li>🌱 I'm currently learning NodeJS/ExpressJS, ReactJS, MongoDB</li>
   <li>⚡ All of my public projects are available at <a href="https://github.com/iamujj15?tab=repositories" target="_blank">https://github.com/iamujj15</a></li>
